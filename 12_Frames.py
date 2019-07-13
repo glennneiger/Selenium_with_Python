@@ -1,7 +1,6 @@
+# Drivers & Exercise Web
 from selenium import webdriver
 import time
-
-# Drivers & Exercise Web
 driver = webdriver.Chrome(executable_path="C:/DRIVERS/Selenium_drivers/chromedriver_win32/chromedriver.exe")
 driver.get("https://seleniumhq.github.io/selenium/docs/api/java/index.html")
 
