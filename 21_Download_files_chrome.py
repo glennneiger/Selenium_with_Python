@@ -2,6 +2,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
+# This is in case you want to save it somewhere else than the default location
 chrome_options = Options()
 chrome_options.add_experimental_option("prefs", {"download.default_directory": r"C:\Users\Usuario\Downloads"})
 
