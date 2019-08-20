@@ -1,0 +1,13 @@
+
+# TIMESTAMP | LEVEL | MESSAGE
+2019-08-20 12:42:51,633: DEBUG: This is a debug message
+2019-08-20 12:42:51,633: INFO: This is a debug message
+2019-08-20 12:42:51,633: WARNING: This is a debug message
+2019-08-20 12:42:51,634: ERROR: This is a debug message
+2019-08-20 12:42:51,634: CRITICAL: This is a debug message
+
+08/20/2019 12:51:22 PM: DEBUG: This is a debug message
+08/20/2019 12:51:22 PM: INFO: This is a debug message
+08/20/2019 12:51:22 PM: WARNING: This is a debug message
+08/20/2019 12:51:22 PM: ERROR: This is a debug message
+08/20/2019 12:51:22 PM: CRITICAL: This is a debug message
