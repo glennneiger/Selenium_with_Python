@@ -12,7 +12,7 @@ class Test(unittest.TestCase):
         # self.assertEqual("Google", titleOfWebPage, "webpage title is not same")
 
         # assert not Equal
-        self.assertNotEqual("Google", titleOfWebPage)
+        self.assertNotEqual("Google123", titleOfWebPage)
 
 
 if __name__ == '__main__':
